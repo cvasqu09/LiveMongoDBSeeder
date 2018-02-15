@@ -1,0 +1,181 @@
+[
+  {
+    "eventName": "test 1",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269a4"
+  },
+  {
+    "eventName": "test 2",
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 3",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "eventName": "test 4",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "eventName": "test 5",
+    "categories": [
+      "sports",
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 6",
+    "categories": [
+      "sports",
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 7",
+    "categories": [
+      "cooking"
+    ]
+  },
+  {
+    "eventName": "test 8",
+    "categories": [
+      "chess"
+    ]
+  },
+  {
+    "eventName": "test 9",
+    "categories": [
+      "cooking"
+    ]
+  },
+  {
+    "eventName": "test 10",
+    "categories": [
+      "chess"
+    ]
+  },
+  {
+    "eventName": "test 11",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "eventName": "test 12",
+    "categories": [
+      "gaming",
+      "cooking"
+    ]
+  },
+  {
+    "eventName": "test 13",
+    "categories": [
+      "sports",
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 14",
+    "categories": [
+      "clubbing"
+    ]
+  },
+  {
+    "eventName": "test 15",
+    "categories": [
+      "clubbing"
+    ]
+  },
+  {
+    "eventName": "test 16",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "eventName": "test 17",
+    "categories": [
+      "art",
+      "books"
+    ]
+  },
+  {
+    "eventName": "test 18",
+    "categories": [
+      "art",
+      "books"
+    ]
+  },
+  {
+    "eventName": "test 19",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "eventName": "test 20",
+    "categories": [
+      "chess"
+    ]
+  },
+  {
+    "eventName": "test 21",
+    "categories": [
+      "clubbing"
+    ]
+  },
+  {
+    "eventName": "test 22",
+    "categories": [
+      "drinks"
+    ]
+  },
+  {
+    "eventName": "test 23",
+    "categories": [
+      "drinks"
+    ]
+  },
+  {
+    "eventName": "test 24",
+    "categories": [
+      "drinks",
+      "clubbing"
+    ]
+  },
+  {
+    "eventName": "test 25",
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 26",
+    "categories": [
+      "sports",
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 27",
+    "categories": [
+      "sports",
+      "gaming"
+    ]
+  },
+  {
+    "eventName": "test 28",
+    "categories": [
+      "art"
+    ]
+  }
+]
