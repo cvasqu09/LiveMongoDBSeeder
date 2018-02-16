@@ -1,0 +1,79 @@
+[
+  {
+    "fullName": "Josh Stuve",
+    "age": 22,
+    "categories": [
+      "gaming",
+      "sports"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269a4"
+    ]
+  },
+  {
+    "fullName": "Scary Terry",
+    "age": 53,
+    "categories": [
+      "dreams",
+      "horror"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269a5",
+      "5a847edee5847831acb269a6"
+    ]
+  },
+  {
+    "fullName": "Mr Meeseek",
+    "age": 100,
+    "categories": [
+      "golfing",
+      "relationships"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269a7"
+    ]
+  },
+  {
+    "fullName": "Chris Vaquez",
+    "age": 22,
+    "categories": [
+      "gaming",
+      "chess"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269ab",
+      "5a847edee5847831acb269ac"
+    ]
+  },
+  {
+    "fullName": "Sashi Sastry",
+    "age": 10,
+    "categories": [
+      "programming",
+      "chess"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269a8"
+    ]
+  },
+  {
+    "fullName": "Nathan Diamond",
+    "age": 12,
+    "categories": [
+      "sports"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269a9"
+    ]
+  },
+  {
+    "fullName": "Dhruuv Khurana",
+    "age": 5,
+    "categories": [
+      "golfing"
+    ],
+    "eventIds": [
+      "5a847edee5847831acb269ae"
+    ]
+  }
+]
