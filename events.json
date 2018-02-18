@@ -1,0 +1,292 @@
+[
+  {
+    "eventName": "test 1",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269a4",
+    "numPeople": 2,
+    "description": "Random descriptoin",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 2",
+    "categories": [
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269a5",
+    "numPeople": 3,
+    "description": "hello",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 3",
+    "categories": [
+      "art"
+    ],
+    "_id": "5a847edee5847831acb269a6",
+    "numPeople": 4,
+    "description": "goodbye",
+    "eventOwner": "Josh Stuve"
+  },
+  {
+    "eventName": "test 4",
+    "categories": [
+      "books"
+    ],
+    "_id": "5a847edee5847831acb269a7",
+    "numPeople": 5,
+    "description": "schism",
+    "eventOwner": "Chris Vasquez"
+  },
+  {
+    "eventName": "test 5",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269a8",
+    "numPeople": 10,
+    "description": "polaris",
+    "eventOwner": "Shashi Sastry"
+  },
+  {
+    "eventName": "test 6",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269a9",
+    "numPeople": 20,
+    "description": "architects",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 7",
+    "categories": [
+      "cooking"
+    ],
+    "_id": "5a847edee5847831acb269aa",
+    "numPeople": 4,
+    "description": "wage war",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 8",
+    "categories": [
+      "chess"
+    ],
+    "_id": "5a847edee5847831acb269ab",
+    "numPeople": 2,
+    "description": "hello",
+    "eventOwner": "Josh Stuve"
+  },
+  {
+    "eventName": "test 9",
+    "categories": [
+      "cooking"
+    ],
+    "_id": "5a847edee5847831acb269ac",
+    "numPeople": 1,
+    "description": "wage war",
+    "eventOwner": "Chris Vasquez"
+  },
+  {
+    "eventName": "test 10",
+    "categories": [
+      "chess"
+    ],
+    "_id": "5a847edee5847831acb269ad",
+    "numPeople": 2,
+    "description": "goodbye",
+    "eventOwner": "Shashi Sastry"
+  },
+  {
+    "eventName": "test 11",
+    "categories": [
+      "art"
+    ],
+    "_id": "5a847edee5847831acb269ae",
+    "numPeople": 5,
+    "description": "wage war",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 12",
+    "categories": [
+      "gaming",
+      "cooking"
+    ],
+    "_id": "5a847edee5847831acb269af",
+    "numPeople": 6,
+    "description": "tool",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 13",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269b0",
+    "numPeople": 7,
+    "description": "the contortionist",
+    "eventOwner": "Josh Stuve"
+  },
+  {
+    "eventName": "test 14",
+    "categories": [
+      "clubbing"
+    ],
+    "_id": "5a847edee5847831acb269b1",
+    "numPeople": 15,
+    "description": "polyphia",
+    "eventOwner": "Chris Vasquez"
+  },
+  {
+    "eventName": "test 15",
+    "categories": [
+      "clubbing"
+    ],
+    "_id": "5a847edee5847831acb269b2",
+    "numPeople": 11,
+    "description": "nothing",
+    "eventOwner": "Shashi Sastry"
+  },
+  {
+    "eventName": "test 16",
+    "categories": [
+      "books"
+    ],
+    "_id": "5a847edee5847831acb269b3",
+    "numPeople": 10,
+    "description": "more",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 17",
+    "categories": [
+      "art",
+      "books"
+    ],
+    "_id": "5a847edee5847831acb269b4",
+    "numPeople": 2,
+    "description": "movements",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 18",
+    "categories": [
+      "art",
+      "books"
+    ],
+    "_id": "5a847edee5847831acb269b5",
+    "numPeople": 1,
+    "description": "we are here",
+    "eventOwner": "Josh Stuve"
+  },
+  {
+    "eventName": "test 19",
+    "categories": [
+      "books"
+    ],
+    "_id": "5a847edee5847831acb269b6",
+    "numPeople": 3,
+    "description": "the plot in you",
+    "eventOwner": "Chris Vasquez"
+  },
+  {
+    "eventName": "test 20",
+    "categories": [
+      "chess"
+    ],
+    "_id": "5a847edee5847831acb269b7",
+    "numPeople": 5,
+    "description": "fit for a king",
+    "eventOwner": "Shashi Sastry"
+  },
+  {
+    "eventName": "test 21",
+    "categories": [
+      "clubbing"
+    ],
+    "_id": "5a847edee5847831acb269b8",
+    "numPeople": 8,
+    "description": "oceans ate alaska",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 22",
+    "categories": [
+      "drinks"
+    ],
+    "_id": "5a847edee5847831acb269b9",
+    "numPeople": 10,
+    "description": "Random descriptoin",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 23",
+    "categories": [
+      "drinks"
+    ],
+    "_id": "5a847edee5847831acb269ba",
+    "numPeople": 5,
+    "description": "I cant spell",
+    "eventOwner": "Josh Stuve"
+  },
+  {
+    "eventName": "test 24",
+    "categories": [
+      "drinks",
+      "clubbing"
+    ],
+    "_id": "5a847edee5847831acb269bb",
+    "numPeople": 10,
+    "description": "come join",
+    "eventOwner": "Chris Vasquez"
+  },
+  {
+    "eventName": "test 25",
+    "categories": [
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269bc",
+    "numPeople": 5,
+    "description": "time, the valuator",
+    "eventOwner": "Shashi Sastry"
+  },
+  {
+    "eventName": "test 26",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269bd",
+    "numPeople": 6,
+    "description": "remember",
+    "eventOwner": "Dhruuv Khurana"
+  },
+  {
+    "eventName": "test 27",
+    "categories": [
+      "sports",
+      "gaming"
+    ],
+    "_id": "5a847edee5847831acb269be",
+    "numPeople": 1,
+    "description": "goodbye",
+    "eventOwner": "Nathan Diamond"
+  },
+  {
+    "eventName": "test 28",
+    "categories": [
+      "art"
+    ],
+    "_id": "5a847edee5847831acb269bf",
+    "numPeople": 2,
+    "description": "hello",
+    "eventOwner": "Josh Stuve"
+  }
+]
