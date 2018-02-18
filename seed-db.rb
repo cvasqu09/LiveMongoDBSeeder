@@ -13,6 +13,7 @@ class MongoSeeder
 	end
 
 	def seed_events
+		clear_events_db
 		@events.each do |event|
 			post_event(event.to_json)
 		end
@@ -35,8 +36,5 @@ class MongoSeeder
 		client.close
 	end
 end
-
-seeder = MongoSeeder.new('./events.json')
-seeder.seed_events
 
 
