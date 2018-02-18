@@ -8,7 +8,8 @@
     ],
     "eventIds": [
       "5a847edee5847831acb269a4"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a4"
   },
   {
     "fullName": "Scary Terry",
@@ -20,7 +21,8 @@
     "eventIds": [
       "5a847edee5847831acb269a5",
       "5a847edee5847831acb269a6"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a5"
   },
   {
     "fullName": "Mr Meeseek",
@@ -31,7 +33,8 @@
     ],
     "eventIds": [
       "5a847edee5847831acb269a7"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a6"
   },
   {
     "fullName": "Chris Vaquez",
@@ -43,7 +46,8 @@
     "eventIds": [
       "5a847edee5847831acb269ab",
       "5a847edee5847831acb269ac"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a7"
   },
   {
     "fullName": "Sashi Sastry",
@@ -54,7 +58,8 @@
     ],
     "eventIds": [
       "5a847edee5847831acb269a8"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a8"
   },
   {
     "fullName": "Nathan Diamond",
@@ -64,7 +69,8 @@
     ],
     "eventIds": [
       "5a847edee5847831acb269a9"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269a9"
   },
   {
     "fullName": "Dhruuv Khurana",
@@ -74,6 +80,7 @@
     ],
     "eventIds": [
       "5a847edee5847831acb269ae"
-    ]
+    ],
+    "_id": "aa847edee5847831acb269aa"
   }
 ]
