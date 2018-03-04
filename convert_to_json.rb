@@ -10,7 +10,7 @@ def create_json(keys, row)
 		values = nil
 		if key.include?('_array')
 			json_key = key.gsub("_array", "")
-			values = row[index].split(',')
+			values = row[index].to_s.split(',')
 			values.each { |e| e.strip! }
 			json_obj[json_key] = values
 		else 
@@ -25,8 +25,7 @@ def create_json(keys, row)
 	json_obj
 end
 
-paths = { "events" => 'C:/Users/Chris/Documents/Git Repos/LiveMongoDBSeeder/events.xlsx',
-					"users" => 'C:/Users/Chris/Documents/Git Repos/LiveMongoDBSeeder/users.xlsx' }
+paths = { "events" => 'C:/Users/Chris/Documents/Git Repos/LiveMongoDBSeeder/events.xlsx' }
 
 paths.each do |name, path|
 	xlsx = Roo::Spreadsheet.open(path)

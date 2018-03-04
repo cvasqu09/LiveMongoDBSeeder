@@ -7,6 +7,12 @@
     ],
     "_id": "5a847edee5847831acb269a4",
     "numPeople": 2,
+    "location": [
+      "3.401754399395827",
+      "31.183049075210032"
+    ],
+    "startTime": 800,
+    "endTime": 1000,
     "description": "Random descriptoin",
     "eventOwner": "Dhruuv Khurana"
   },
@@ -17,6 +23,12 @@
     ],
     "_id": "5a847edee5847831acb269a5",
     "numPeople": 3,
+    "location": [
+      "21.78046958639743",
+      "26.269827323458287"
+    ],
+    "startTime": 2000,
+    "endTime": 2100,
     "description": "hello",
     "eventOwner": "Nathan Diamond"
   },
@@ -27,6 +39,12 @@
     ],
     "_id": "5a847edee5847831acb269a6",
     "numPeople": 4,
+    "location": [
+      "-102.24277685060417",
+      "39.89148078159939"
+    ],
+    "startTime": 900,
+    "endTime": 1000,
     "description": "goodbye",
     "eventOwner": "Josh Stuve"
   },
@@ -37,6 +55,12 @@
     ],
     "_id": "5a847edee5847831acb269a7",
     "numPeople": 5,
+    "location": [
+      "-117.00840185060417",
+      "44.07049029400377"
+    ],
+    "startTime": 700,
+    "endTime": 800,
     "description": "schism",
     "eventOwner": "Chris Vasquez"
   },
@@ -48,6 +72,12 @@
     ],
     "_id": "5a847edee5847831acb269a8",
     "numPeople": 10,
+    "location": [
+      "-112.61387060060417",
+      "35.29794719403591"
+    ],
+    "startTime": 600,
+    "endTime": 900,
     "description": "polaris",
     "eventOwner": "Shashi Sastry"
   },
@@ -59,6 +89,12 @@
     ],
     "_id": "5a847edee5847831acb269a9",
     "numPeople": 20,
+    "location": [
+      "-69.37168310060417",
+      "-5.814571078055777"
+    ],
+    "startTime": 1200,
+    "endTime": 1300,
     "description": "architects",
     "eventOwner": "Dhruuv Khurana"
   },
@@ -69,6 +105,12 @@
     ],
     "_id": "5a847edee5847831acb269aa",
     "numPeople": 4,
+    "location": [
+      "3.1476570863974302",
+      "20.464128389319637"
+    ],
+    "startTime": 2000,
+    "endTime": 2100,
     "description": "wage war",
     "eventOwner": "Nathan Diamond"
   },
@@ -79,6 +121,12 @@
     ],
     "_id": "5a847edee5847831acb269ab",
     "numPeople": 2,
+    "location": [
+      "40.94062583639743",
+      "26.89861147338537"
+    ],
+    "startTime": 1900,
+    "endTime": 2100,
     "description": "hello",
     "eventOwner": "Josh Stuve"
   },
@@ -89,6 +137,12 @@
     ],
     "_id": "5a847edee5847831acb269ac",
     "numPeople": 1,
+    "location": [
+      "-86.32499916360251",
+      "51.61532521737558"
+    ],
+    "startTime": 2100,
+    "endTime": 2300,
     "description": "wage war",
     "eventOwner": "Chris Vasquez"
   },
@@ -99,6 +153,12 @@
     ],
     "_id": "5a847edee5847831acb269ad",
     "numPeople": 2,
+    "location": [
+      "-85.27031166360251",
+      "39.906411404813255"
+    ],
+    "startTime": 2300,
+    "endTime": 0,
     "description": "goodbye",
     "eventOwner": "Shashi Sastry"
   },
@@ -109,6 +169,12 @@
     ],
     "_id": "5a847edee5847831acb269ae",
     "numPeople": 5,
+    "location": [
+      "-105.30937416360251",
+      "58.07558429605132"
+    ],
+    "startTime": 100,
+    "endTime": 200,
     "description": "wage war",
     "eventOwner": "Dhruuv Khurana"
   },
@@ -120,6 +186,12 @@
     ],
     "_id": "5a847edee5847831acb269af",
     "numPeople": 6,
+    "location": [
+      "-44.13749916360251",
+      "68.2677819562145"
+    ],
+    "startTime": 200,
+    "endTime": 300,
     "description": "tool",
     "eventOwner": "Nathan Diamond"
   },
@@ -131,6 +203,12 @@
     ],
     "_id": "5a847edee5847831acb269b0",
     "numPeople": 7,
+    "location": [
+      "-53.62968666360251",
+      "-7.715286866732283"
+    ],
+    "startTime": 400,
+    "endTime": 700,
     "description": "the contortionist",
     "eventOwner": "Josh Stuve"
   },
@@ -141,6 +219,12 @@
     ],
     "_id": "5a847edee5847831acb269b1",
     "numPeople": 15,
+    "location": [
+      "-47.65312416360251",
+      "-14.948972648614886"
+    ],
+    "startTime": 800,
+    "endTime": 1000,
     "description": "polyphia",
     "eventOwner": "Chris Vasquez"
   },
@@ -151,142 +235,13 @@
     ],
     "_id": "5a847edee5847831acb269b2",
     "numPeople": 11,
+    "location": [
+      "-63.47343666360251",
+      "-31.357338348652714"
+    ],
+    "startTime": 600,
+    "endTime": 1300,
     "description": "nothing",
     "eventOwner": "Shashi Sastry"
-  },
-  {
-    "eventName": "test 16",
-    "categories": [
-      "books"
-    ],
-    "_id": "5a847edee5847831acb269b3",
-    "numPeople": 10,
-    "description": "more",
-    "eventOwner": "Dhruuv Khurana"
-  },
-  {
-    "eventName": "test 17",
-    "categories": [
-      "art",
-      "books"
-    ],
-    "_id": "5a847edee5847831acb269b4",
-    "numPeople": 2,
-    "description": "movements",
-    "eventOwner": "Nathan Diamond"
-  },
-  {
-    "eventName": "test 18",
-    "categories": [
-      "art",
-      "books"
-    ],
-    "_id": "5a847edee5847831acb269b5",
-    "numPeople": 1,
-    "description": "we are here",
-    "eventOwner": "Josh Stuve"
-  },
-  {
-    "eventName": "test 19",
-    "categories": [
-      "books"
-    ],
-    "_id": "5a847edee5847831acb269b6",
-    "numPeople": 3,
-    "description": "the plot in you",
-    "eventOwner": "Chris Vasquez"
-  },
-  {
-    "eventName": "test 20",
-    "categories": [
-      "chess"
-    ],
-    "_id": "5a847edee5847831acb269b7",
-    "numPeople": 5,
-    "description": "fit for a king",
-    "eventOwner": "Shashi Sastry"
-  },
-  {
-    "eventName": "test 21",
-    "categories": [
-      "clubbing"
-    ],
-    "_id": "5a847edee5847831acb269b8",
-    "numPeople": 8,
-    "description": "oceans ate alaska",
-    "eventOwner": "Dhruuv Khurana"
-  },
-  {
-    "eventName": "test 22",
-    "categories": [
-      "drinks"
-    ],
-    "_id": "5a847edee5847831acb269b9",
-    "numPeople": 10,
-    "description": "Random descriptoin",
-    "eventOwner": "Nathan Diamond"
-  },
-  {
-    "eventName": "test 23",
-    "categories": [
-      "drinks"
-    ],
-    "_id": "5a847edee5847831acb269ba",
-    "numPeople": 5,
-    "description": "I cant spell",
-    "eventOwner": "Josh Stuve"
-  },
-  {
-    "eventName": "test 24",
-    "categories": [
-      "drinks",
-      "clubbing"
-    ],
-    "_id": "5a847edee5847831acb269bb",
-    "numPeople": 10,
-    "description": "come join",
-    "eventOwner": "Chris Vasquez"
-  },
-  {
-    "eventName": "test 25",
-    "categories": [
-      "gaming"
-    ],
-    "_id": "5a847edee5847831acb269bc",
-    "numPeople": 5,
-    "description": "time, the valuator",
-    "eventOwner": "Shashi Sastry"
-  },
-  {
-    "eventName": "test 26",
-    "categories": [
-      "sports",
-      "gaming"
-    ],
-    "_id": "5a847edee5847831acb269bd",
-    "numPeople": 6,
-    "description": "remember",
-    "eventOwner": "Dhruuv Khurana"
-  },
-  {
-    "eventName": "test 27",
-    "categories": [
-      "sports",
-      "gaming"
-    ],
-    "_id": "5a847edee5847831acb269be",
-    "numPeople": 1,
-    "description": "goodbye",
-    "eventOwner": "Nathan Diamond"
-  },
-  {
-    "eventName": "test 28",
-    "categories": [
-      "art"
-    ],
-    "_id": "5a847edee5847831acb269bf",
-    "numPeople": 2,
-    "description": "hello",
-    "eventOwner": "Josh Stuve"
   }
 ]
